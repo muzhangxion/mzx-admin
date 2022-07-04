@@ -6,6 +6,9 @@
       <div>
         <HelloWorld msg="Hello Vue 3.0 + Element Plus + Vite" />
       </div>
+      <div>
+         <Structure />
+      </div>
     </div>
   </el-config-provider>
 </template>
