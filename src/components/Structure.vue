@@ -6,10 +6,14 @@ import { ElMessage } from 'element-plus'
 <template>
   <div>
     <div class="search_area_block">
-
+      111
     </div>
-    <div class="operating_area_block"></div>
-    <div class="table_area_block"></div>
+    <div class="operating_area_block">
+      222
+    </div>
+    <div class="table_area_block">
+      333
+    </div>
   </div>
 </template>
 
